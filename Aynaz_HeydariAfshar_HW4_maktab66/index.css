@@ -72,3 +72,21 @@ body{
     top: 0px;
     padding: 0px 90px 90px 40px;
 }
+.btn{
+    border-radius: 30px;
+    padding: 15px 35px 15px 35px;
+    position: relative;
+    bottom: 100px;
+    left: 230px;
+    border: none;
+    font-size: 17px;
+    margin-top:20px ;
+}
+#view{
+    background-color: #d31b27;
+    color: white;
+    margin: 10px;
+}
+#book{
+    color: rgb(78, 64, 64);
+}
