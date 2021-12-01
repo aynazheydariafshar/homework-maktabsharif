@@ -2,10 +2,13 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box; 
+    background-image:url("./img/food.png"), url("./img/abstract.png") ;
+    background-position: right top, right top;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 660px , 580px;
+    
 }
-#abstract{
-    z-index: 0;
-    width: 37.25%;
-    height: 51%;
-    float: right;
+
+#spanfoody{
+    color: #d31b27;
 }
