@@ -11,7 +11,7 @@ body{
     color: #d31b27;
 }
 #hfoody{
-    margin-left: 120px;
+    margin-left: 180px;
 }
 .menu{
     position: relative;
@@ -55,4 +55,20 @@ body{
     bottom: 50px;
     width: 30px;
     height: 30px;
+}
+#txtone{
+    font-size: 60px;
+    position: relative;
+    left: 200px;
+    top: 100px;
+    padding: 0px 90px 90px 40px;
+    border-left: 4px solid #d31b27;
+    border-radius: 2px;
+}
+#txttwo{
+    font-size: 30px;
+    position: relative;
+    left: 200px;
+    top: 0px;
+    padding: 0px 90px 90px 40px;
 }
