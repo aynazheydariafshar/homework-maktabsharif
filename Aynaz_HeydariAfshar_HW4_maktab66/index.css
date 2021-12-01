@@ -62,14 +62,13 @@ body{
     left: 200px;
     top: 100px;
     padding: 0px 90px 90px 40px;
-    border-left: 4px solid #d31b27;
+    border-left: 3px solid #d31b27;
     border-radius: 2px;
 }
 #txttwo{
     font-size: 30px;
     position: relative;
     left: 200px;
-    top: 0px;
     padding: 0px 90px 90px 40px;
 }
 .btn{
