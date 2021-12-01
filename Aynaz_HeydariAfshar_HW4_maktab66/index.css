@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+#abstract{
+    z-index: 0;
+    width: 37.25%;
+    height: 51%;
+    float: right;
+}
